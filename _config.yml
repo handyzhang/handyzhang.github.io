@@ -48,8 +48,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Disqus settings
-disqus_username: hux
-
+# disqus_username:
 # Netease setttings
 netease_comment: false
 
