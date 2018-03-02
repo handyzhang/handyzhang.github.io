@@ -11,7 +11,7 @@ tags:
     - UX Design
 ---
 
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;)
+> 这篇文章转载自[黄玄(Hux)在知乎上的回答](https://www.zhihu.com/question/21921588/answer/69680480)，也被刊登于[优秀网页设计](http://www.uisdc.com/head-first-front-end)等多个网站上 ;)
 
 
 笔者的经历在知乎就可以看到，大学专业是数字媒体艺术，大一实习过动效设计师，大二拿到了人生第一个大公司 offer 是阿里的交互设计，后来转岗到淘宝旅行的前端团队，现在在微信电影票做前端研发。
@@ -183,11 +183,6 @@ $('.className').click(function(){
 <br>
 <br>虽然一下扯得有点多，但这些确实就是你未来将会遇到的。你并不需要全部掌握它们，但是却多多益善；你也可以专精在某几个方面，这已经足以让你成为非常专业的前端工程师。
 <br>
-<br><b>所以，如果你自认为涵盖了上述要求的 40%，欢迎简历发 huangxuan@wepiao.com ，实习/全职皆可～</b>
-<br>
-<br>
-<br>咦，这个结尾怪怪的……
-
 
 
 
